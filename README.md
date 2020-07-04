@@ -6,7 +6,7 @@ For some prerequisite knowledge, please refer to the following tutorial link: ht
 ### 1.1 Create Project
 Project --> New uVision Project.. --> Create a folder and enter the project name --> STMicroelectronics --> STM32F4 Series --> find STM32F411VETx 
 ### 1.2 Manage Run-Time Environment
-CMSIS --> Select CORE
+CMSIS --> Select CORE <br />
 Device --> Select Startup
 ### 1.3 Create file
 

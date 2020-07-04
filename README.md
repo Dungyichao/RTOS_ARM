@@ -11,7 +11,7 @@ Device --> Select Startup
 
 
 # 2. Board Support Package (BSP)
-Create three file: STM32F4_RTOS_BSP.c, STM32F4_RTOS_BSP.h, main.c file.
+Create three file: STM32F4_RTOS_BSP.c, STM32F4_RTOS_BSP.h, main.c file. We will do something like making LED on the board blinking. Figuring out which port or pin for different LED can be refer to my tutorial [link](https://github.com/Dungyichao/PeriodicScheduler_Semaphore/blob/master/Reference/LED%20Light%20STM32f411%20Nucleo%20Code.pdf) though the board is different.
 
 
 

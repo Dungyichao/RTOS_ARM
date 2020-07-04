@@ -8,7 +8,10 @@ Project --> New uVision Project.. --> Create a folder and enter the project name
 ### 1.2 Manage Run-Time Environment
 CMSIS --> Select CORE <br />
 Device --> Select Startup
-### 1.3 Create file
+
+
+# 2. Board Support Package (BSP)
+Create three file: STM32F4_RTOS_BSP.c, STM32F4_RTOS_BSP.h, main.c file.
 
 
 

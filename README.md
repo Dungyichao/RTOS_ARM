@@ -8,6 +8,8 @@ Project --> New uVision Project.. --> Create a folder and enter the project name
 ### 1.2 Manage Run-Time Environment
 CMSIS --> Select CORE <br />
 Device --> Select Startup
+### 1.3 Error Connecting to Board
+You may encounter some problem when trying to flash your code from your PC to the board kit. You may need to check if the USB cable is good (some USB cable can only charge the board instead of transferring data). Then there might be driver problem which you may refer to the [link](http://www.keil.com/support/docs/3634.htm).
 
 
 # 2. Board Support Package (BSP)
